@@ -1,4 +1,4 @@
-# This is a copy of my main profile's banner as this is my alt account
+# This is a copy of my [main profile](https://github.com/tgpethan)'s banner as this is my alt account
 
 ### Hey there, I'm Ethan
 I started my adventure developing software late into 2016 and have been ~~hating~~ ~~loving~~ coping ever since.
